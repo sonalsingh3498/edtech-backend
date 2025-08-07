@@ -1,6 +1,6 @@
-import { users } from "./data/users";
-import { courses } from "./data/courses";
-import { enrollments } from "./data/enrollments";
+import { users } from "../data/users";
+import { courses } from "../data/courses";
+import { enrollments } from "../data/enrollments";
 
 export const resolvers = {
  Query: {
