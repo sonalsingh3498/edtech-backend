@@ -21,3 +21,4 @@ export const config = {
     bodyParser: false,
   },
 };
+export { handler as GET, handler as POST };
